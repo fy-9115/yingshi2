@@ -51,10 +51,6 @@
 		{
             "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
             "name": "健康家用"
-        },
-		{
-            "url": "https://szyyds.cn/tv/x.json",
-            "name": "小马线路"
         }
     ]
 }
