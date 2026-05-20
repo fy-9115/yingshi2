@@ -1,0 +1,28 @@
+{
+    "urls": [
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧技"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://xn--dkw0c.e.nxog.top/apitv.php?id=10?&PMc?&AI1",
+            "name": "欧歌10"
+        },
+        {
+            "url": "https://tv.nxog.top/m/",
+            "name": "讴歌"
+        },
+        {
+            "url": "http://肥猫.com/",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://毒盒.com/tv",
+            "name": "毒盒"
+        }
+    ]
+}
