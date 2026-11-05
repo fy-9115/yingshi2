@@ -1,36 +1,8 @@
 {
     "urls": [
         {
-            "url": "https://www.cttv.vip/ys/json/ctys.json",
-            "name": "cttv"
-        },
-        {
-            "url":"https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
-            "name":"玄珠4K"
-        },
-        {
-            "url": "https://chigua.eu.org",
-            "name": "东篱在线"
-        },
-        {
-            "url": "http://tjf1100.serv00.net",
-            "name": "传说线路"
-        },
-        {
             "url": "https://6800.kstore.vip/fish.json",
             "name": "6800"
-        },
-        {
-            "url": "http://mzrjk.top/VIP",
-            "name": "金鱼box接口"
-        },
-        {
-            "url": "http://肥猫.net/",
-            "name": "肥猫"
-        },
-        {
-            "url": "https://0.wudaozhe.net/5/x4pro.json",
-            "name": "菠菜"
         },
         {
             "url": "http://fish.y456y.com",
@@ -45,28 +17,8 @@
             "name": "Clun在线"
         },
         {
-            "url": "https://juziyou.vip/tv",
-            "name": "橘子柚"
-        },
-        {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/config.json",
-            "name": "橘子柚2"
-        },
-        {
             "url": "http://itv666.cc/aowu/config.webp",
             "name": "嗷呜"
-        },
-        {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "道长"
-        },
-        {
-            "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json",
-            "name": "运输车"
-        },
-        {
-            "url": "http://xhztv.top/4k.json",
-            "name": "聚完"
         }
     ]
 }
